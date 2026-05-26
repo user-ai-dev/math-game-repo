@@ -75,3 +75,14 @@ MathQuizGame/
 ## 📄 License
 
 This project is open source and free to use for educational purposes.
+
+---
+
+## 👤 Author
+
+👤 Ahmed Mohamed
+📧 ahmed.mohamed@gmail.com
+💼 [linkedin.com/in/ahmed-mohamed](https://linkedin.com/in/ahmed-mohamed)
+
+
+
