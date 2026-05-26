@@ -72,41 +72,6 @@ MathQuizGame/
 
 ---
 
-## ⚙️ Requirements
-
-- **Compiler**: Any C++11-compatible compiler (e.g., GCC, MSVC, Clang)
-- **OS**: Windows (uses `system("color")` and `system("cls")` for console styling)
-
----
-
-## 🚀 Getting Started
-
-### Compile
-
-```bash
-g++ main.cpp -o MathQuizGame
-```
-
-### Run
-
-```bash
-./MathQuizGame
-```
-
-> ⚠️ **Note**: The color-changing and screen-clearing features rely on Windows console commands (`color`, `cls`). On Linux/macOS, these calls will have no effect but the game will still run correctly.
-
----
-
-## 🔮 Possible Improvements
-
-- Add a timer per question
-- Support floating-point division results
-- Replace `system()` calls with cross-platform ANSI escape codes
-- Save high scores to a file
-- Add a leaderboard
-
----
-
 ## 📄 License
 
 This project is open source and free to use for educational purposes.
